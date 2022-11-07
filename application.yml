@@ -1,6 +1,6 @@
 server: # REST and WS server
-  port: 2080
-  address: 127.0.0.1
+  port: 2333
+  address: 192.168.1.203
 lavalink:
   server:
     password: "lostedbitches"
